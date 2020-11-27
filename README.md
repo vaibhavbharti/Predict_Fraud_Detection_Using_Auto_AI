@@ -25,3 +25,15 @@ Automation and artificial intelligence (AI) are transforming businesses and will
       * Evaulates different pipelines from Auto AI & select best model for deployment
       * Generates accurate predictions by making REST call to the deployment.
 
+# HARDWARE AND SOFTWARE REQUIREMENTS
+Hardware 
+     * Desktop/laptop
+     * RAM 256MB (Minimum)
+Software
+     *Web browser 
+
+# REFERENCES
+www.google.com/ 
+www.ibmcloud.com/ 
+www.python.com/ 
+
