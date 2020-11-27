@@ -1,5 +1,12 @@
 # Predict_Fraud_Detection_Using_Auto_AI
 
+# INTRODUCTION
+Automation and artificial intelligence (AI) are transforming businesses and will contribute to economic growth via contributions to productivity. In this project I’ll focus on building state of the art systems for churning out predictions which can be used in different scenarios. I’ll try to predict fraudulent transactions which we know can reduce monetary loss and risk mitigation. The same approach can be used for predicting customer churn, demand and supply forecast and others. Building predictive models require time, effort and good knowledge of algorithms to create effective systems which can predict the outcome accurately. With that being said, IBM introduced AutoAI which will automate all the tasks involved in building predictive models for different requirements. In this project we will get to see how AutoAI can churn out great models quickly which will save time and effort and aid in faster decision-making process. 
+
+# PROPOSED METHODOLOGY
+The project based on Fraud Prediction using AutoAI for  predicting customer churn, demand and supply forecast and others. The project is only for educational purpose.
+
+
 # Tools 
       * IBM Watson Studio : Analyze data
       * IBM Auto AI : Automatically analyzes your data and generates candidte model pipelines
